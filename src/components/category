@@ -1,0 +1,9 @@
+
+entertainment
+
+health
+science
+sports
+technology
+
+<Route exact path="/" element={<NewsItem key="sports" pageSize={10} country="in" category="sports"/>} />    
